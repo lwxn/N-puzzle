@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/hashTable.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/core/astar/AStar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/astar/Fringe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/problem/Problem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/problem/State.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/runner/ProblemFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/runner/SearchRunner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/core/uitlity/Zobrist.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/block/BlockAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/block/BlockState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/block/NBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/block/NBlockV2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/npuzzle/NPuzzle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/npuzzle/PuzzleAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/npuzzle/PuzzleState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/g11/problem/npuzzle/databaseRead.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

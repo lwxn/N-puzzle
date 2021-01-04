@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="252e0aba-bad8-4daf-8682-20fc1fa31cf2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>121000320121</find>
+      <find>013013332320</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1maQFtnxmph7jNG6df5kOQUb2Bo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555674040722" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../project1/tempN-puzzle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xu.problem.npuzzle" />
+      <recent name="core.disjoint" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\junior3.5\Artificial Intelligence\project3\initial\Searching_Student_V2.1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SearchRunner">
+    <configuration name="AStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.astar.AStar" />
+      <module name="Searching_Student_V2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.astar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.disjoint.BFS" />
+      <module name="Searching_Student_V2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.disjoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NPuzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xu.problem.npuzzle.NPuzzle" />
+      <module name="Searching_Student_V2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xu.problem.npuzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PuzzleState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xu.problem.npuzzle.PuzzleState" />
+      <module name="Searching_Student_V2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xu.problem.npuzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.runner.SearchRunner" />
+      <module name="Searching_Student_V2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchRunner" />
+        <item itemvalue="Application.BFS" />
+        <item itemvalue="Application.AStar" />
+        <item itemvalue="Application.PuzzleState" />
+        <item itemvalue="Application.NPuzzle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252e0aba-bad8-4daf-8682-20fc1fa31cf2" name="Default Changelist" comment="" />
+      <created>1554259969397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554259969397</updated>
+      <workItem from="1554259973667" duration="747000" />
+      <workItem from="1554285858857" duration="5525000" />
+      <workItem from="1554293349719" duration="4943000" />
+      <workItem from="1554300294926" duration="2821000" />
+      <workItem from="1554337146854" duration="4620000" />
+      <workItem from="1554359936989" duration="2261000" />
+      <workItem from="1554363141492" duration="873000" />
+      <workItem from="1554366308842" duration="3290000" />
+      <workItem from="1554377947757" duration="5153000" />
+      <workItem from="1554510304863" duration="43000" />
+      <workItem from="1554600115508" duration="3003000" />
+      <workItem from="1555202519619" duration="12201000" />
+      <workItem from="1555286942976" duration="12913000" />
+      <workItem from="1555311352128" duration="1147000" />
+      <workItem from="1555313772414" duration="20000" />
+      <workItem from="1555330243229" duration="4762000" />
+      <workItem from="1555336687196" duration="1397000" />
+      <workItem from="1555396229037" duration="7930000" />
+      <workItem from="1555407691116" duration="4009000" />
+      <workItem from="1555414764322" duration="6640000" />
+      <workItem from="1555423679489" duration="4544000" />
+      <workItem from="1555510596294" duration="892000" />
+      <workItem from="1555512438835" duration="194000" />
+      <workItem from="1555512664518" duration="5310000" />
+      <workItem from="1555545219531" duration="26000" />
+      <workItem from="1555598619153" duration="597000" />
+      <workItem from="1555630069977" duration="16182000" />
+      <workItem from="1555655923187" duration="12253000" />
+      <workItem from="1555672497394" duration="1539000" />
+      <workItem from="1609729123555" duration="1088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="z.hash1(initState.getStatus())" />
+        <watch expression="status[index[i]]" />
+        <watch expression="((PuzzleState)revisited.getState()).getBlankPos()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>depth + node.getHeuristic()&gt;limit</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
